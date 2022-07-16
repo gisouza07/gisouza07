@@ -4,7 +4,7 @@
 
 🪐 Estudando Java com a Generation Brasil
 
-🌱 Futura Desenvolvedora Web Jr.
+🌱 Futura Desenvolvedora FullStack Java Jr.
 
 🎈 Pronomes: Ela/Dela
 
